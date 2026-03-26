@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Muzamil Nabi Wani, a 21-year-old aspiring web developer 💻<br>• 🔭 I’m currently working on eCommerce web development projects and improving my coding skills<br>• 👯 I’m looking to collaborate on web development & eCommerce website projects<br>• 🤝 I’m looking for help with real-world projects, freelancing & scaling my skills<br>• ⚡ Fun fact: I’m building my journey from beginner to professional developer and sharing everything step by step 🚀
+Hi, I’m Muzamil Nabi War, a 21-year-old aspiring web developer 💻<br>• 🔭 I’m currently working on eCommerce web development projects and improving my coding skills<br>• 👯 I’m looking to collaborate on web development & eCommerce website projects<br>• 🤝 I’m looking for help with real-world projects, freelancing & scaling my skills<br>• ⚡ Fun fact: I’m building my journey from beginner to professional developer and sharing everything step by step 🚀
 
 
 ## 🌐 Socials:
